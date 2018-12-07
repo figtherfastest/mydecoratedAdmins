@@ -1,0 +1,884 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8fc793c1-c63c-40e6-8624-75ab96900415" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.4242247">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/module/data-module/component/travelDestination/tourismPurpose/TourismPurpose.vue">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="107">
+                  <caret line="171" column="34" selection-start-line="171" selection-start-column="34" selection-end-line="171" selection-end-column="34" />
+                  <folding>
+                    <element signature="e#15554#15575#0" expanded="true" />
+                    <element signature="e#18467#18627#0" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/module/data-module/component/.common/QrCodeEditor.vue">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="1754">
+                  <caret line="67" column="19" selection-start-line="67" selection-start-column="19" selection-end-line="67" selection-end-column="19" />
+                  <folding>
+                    <element signature="n#style#0;n#el-col#0;n#el-row#0;n#template#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#div#0;n#el-dialog#0;n#el-row#0;n#template#0;n#!!top" expanded="true" />
+                    <element signature="e#633#654#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/module/data-module/component/.common/edit.vue">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="465">
+                  <caret line="115" column="3" selection-start-line="115" selection-start-column="3" selection-end-line="115" selection-end-column="3" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/module/data-module/component/.common/edit.vue">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="224">
+                  <caret line="129" column="13" lean-forward="true" selection-start-line="129" selection-start-column="13" selection-end-line="129" selection-end-column="13" />
+                  <folding>
+                    <element signature="n#style#0;n#el-col#0;n#el-row#0;n#template#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#el-button#0;n#el-col#0;n#el-row#0;n#template#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#el-button#1;n#el-col#0;n#el-row#0;n#template#0;n#!!top" expanded="true" />
+                    <element signature="e#707#728#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>qrState</find>
+      <find>createQrcoed</find>
+      <find>@qrcodeState=&quot;qrcodeState&quot;</find>
+      <find>&lt;qrcode @qrcodeState=&quot;qrcodeState&quot; v-model=&quot;data.qrcodeText&quot; v-if=&quot;qrState&quot;/&gt;</find>
+      <find>carRental</find>
+      <find>&lt;qrCodeEditor v-model=&quot;data.weChatPublicAccountQrCode&quot; /&gt;</find>
+      <find>&lt;qrCodeEditor v-model=&quot;data.weChatPublicAccountQrCode&quot;/&gt;</find>
+      <find>&lt;qrCodeEditor v-model=&quot;data.weChatPublicAccountQrCode&quot;</find>
+      <find>二维码</find>
+      <find>title</find>
+      <find>枣庄指挥旅游大数据指挥平台</find>
+      <find>tittle</find>
+      <find>预览</find>
+      <find>qrcodeEdit</find>
+      <find>dialogVisible</find>
+      <find>dialogOpened</find>
+      <find>mounted</find>
+      <find>editOpened</find>
+      <find>centerDialogVisible</find>
+      <find>createEdit</find>
+      <find>style</find>
+      <find>rendered</find>
+      <find>virtualMaterials</find>
+      <find>概述</find>
+      <find>preview</find>
+      <find>videos</find>
+      <find>editorElem</find>
+      <find>text</find>
+      <find>visible</find>
+      <find>textChange</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>type=&quot;primary&quot;</replace>
+      <replace />
+      <replace>&lt;qrCodeEditor v-model=&quot;data.weChatPublicAccountQrCode&quot; :disabled=&quot;readonly&quot; /&gt;</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>E:\git\zz\sources\web-admin\src\module</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/module/data-module/component/media/virtualMaterial/VirtualMaterial.vue" />
+        <option value="$PROJECT_DIR$/src/module/data-module/component/media/imageDatabase/ImageDatabase.vue" />
+        <option value="$PROJECT_DIR$/src/module/data-module/component/media/audioDatabase/AudioDatabase.vue" />
+        <option value="$PROJECT_DIR$/src/module/system-module/component/Role.vue" />
+        <option value="$PROJECT_DIR$/src/module/system-module/component/Roles.vue" />
+        <option value="$PROJECT_DIR$/src/module/data-module/component/trivalProducts/touristRoute/TouristRoute.vue" />
+        <option value="$PROJECT_DIR$/src/module/data-module/component/.common/videoResource.vue" />
+        <option value="$PROJECT_DIR$/src/module/data-module/component/.common/virtualMaterial.vue" />
+        <option value="$PROJECT_DIR$/src/module/data-module/component/.common/audioResource.vue" />
+        <option value="$PROJECT_DIR$/config/index.js" />
+        <option value="$PROJECT_DIR$/src/module/data-module/component/.common/ImgResource.vue" />
+        <option value="$PROJECT_DIR$/src/module/opinion-module/component/Opinions.vue" />
+        <option value="$PROJECT_DIR$/src/module/data-module/component/tourismResourceManagement/touristAttractions/TouristAttractions.vue" />
+        <option value="$PROJECT_DIR$/src/module/data-module/component/tourismResourceManagement/qualityStreet/QualityStreet.vue" />
+        <option value="$PROJECT_DIR$/src/module/data-module/component/travelTransport/railTraffic/RailTraffic.vue" />
+        <option value="$PROJECT_DIR$/src/module/data-module/component/travelTransport/taxiEnterprise/TaxiEnterprise.vue" />
+        <option value="$PROJECT_DIR$/src/module/system-module/component/Resources.vue" />
+        <option value="$PROJECT_DIR$/src/module/system-module/component/User.vue" />
+        <option value="$PROJECT_DIR$/src/module/system-module/component/Resource.vue" />
+        <option value="$PROJECT_DIR$/src/module/system-module/component/Menus.vue" />
+        <option value="$PROJECT_DIR$/src/module/system-module/component/Menu.vue" />
+        <option value="$PROJECT_DIR$/src/module/system-module/component/ResourceAuthority.vue" />
+        <option value="$PROJECT_DIR$/src/module/data-module/component/.common/qrcode.vue" />
+        <option value="$PROJECT_DIR$/src/module/system-module/component/MenuAuthority.vue" />
+        <option value="$PROJECT_DIR$/src/index.js" />
+        <option value="$PROJECT_DIR$/src/module/data-module/component/travelDestination/association/Association.vue" />
+        <option value="$PROJECT_DIR$/src/module/data-module/component/tourismResourceManagement/emergingFormats/EmergingFormats.vue" />
+        <option value="$PROJECT_DIR$/src/module/data-module/component/tourismResourceManagement/characteristicTourism/CharacteristicTourism.vue" />
+        <option value="$PROJECT_DIR$/src/module/data-module/component/publicSource/hospital/Hospital.vue" />
+        <option value="$PROJECT_DIR$/src/module/data-module/component/travelDestination/tourismManagementDepartment/TourismManagementDepartment.vue" />
+        <option value="$PROJECT_DIR$/src/module/data-module/component/travelRelatedEnterpriseManagement/travelAgentField/TravelAgentField.vue" />
+        <option value="$PROJECT_DIR$/src/module/data-module/component/travelRelatedEnterpriseManagement/shoppingPlaceWord/ShoppingPlaceWord.vue" />
+        <option value="$PROJECT_DIR$/src/module/data-module/component/travelRelatedEnterpriseManagement/diningPlace/DiningPlace.vue" />
+        <option value="$PROJECT_DIR$/src/module/data-module/component/travelRelatedEnterpriseManagement/accommodation/Accommodation.vue" />
+        <option value="$PROJECT_DIR$/src/module/data-module/component/tourismResourceManagement/tourismTown/TourismTown.vue" />
+        <option value="$PROJECT_DIR$/src/module/data-module/component/tourismResourceManagement/scienceAndTechnologyCultureCenter/ScienceAndTechnologyCultureCenter.vue" />
+        <option value="$PROJECT_DIR$/src/module/data-module/component/tourismResourceManagement/ruralTourism/RuralTourism.vue" />
+        <option value="$PROJECT_DIR$/src/module/data-module/component/tourismResourceManagement/publicTrails/PublicTrails.vue" />
+        <option value="$PROJECT_DIR$/src/module/data-module/component/travelTransport/carRental/CarRental.vue" />
+        <option value="$PROJECT_DIR$/src/components/index.vue" />
+        <option value="$PROJECT_DIR$/src/module/data-module/component/.common/QrCodeEditor.vue" />
+        <option value="$PROJECT_DIR$/src/module/dataview-module/component/common/DynamicNumber.vue" />
+        <option value="$PROJECT_DIR$/src/module/data-module/commonjs/rule.js" />
+        <option value="$PROJECT_DIR$/src/module/data-module/component/.common/Template.vue" />
+        <option value="$PROJECT_DIR$/src/components/theme/left-main/index.vue" />
+        <option value="$PROJECT_DIR$/src/module/system-module/component/Template.vue" />
+        <option value="$PROJECT_DIR$/src/module/opinion-module/component/Template.vue" />
+        <option value="$PROJECT_DIR$/src/module/data-module/component/.common/EDIT.vue" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/src/module/data-module/component/travelDestination/tourismPurpose/TourismPurpose.vue" />
+        <option value="$PROJECT_DIR$/src/module/data-module/component/.common/edit.vue" />
+      </list>
+    </option>
+  </component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupnpm">
+      <scroll-view-position x="0" y="0" />
+    </layout>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="683" />
+    <option name="y" value="-2" />
+    <option name="width" value="1183" />
+    <option name="height" value="635" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="web-admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web-admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web-admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web-admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web-admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="module" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web-admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="module" type="462c0819:PsiDirectoryNode" />
+              <item name="data-module" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web-admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="module" type="462c0819:PsiDirectoryNode" />
+              <item name="data-module" type="462c0819:PsiDirectoryNode" />
+              <item name="component" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web-admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="module" type="462c0819:PsiDirectoryNode" />
+              <item name="data-module" type="462c0819:PsiDirectoryNode" />
+              <item name="component" type="462c0819:PsiDirectoryNode" />
+              <item name=".common" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="尹杰&#9;null&#9;null" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="E:\git\zz\sources\web-admin\node_modules\eslint" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="E:\git\zz\sources\web-admin\node_modules\prettier" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+    <property name="ts.external.directory.path" value="E:\git\zz\sources\web-admin\node_modules\typescript\lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\git\zz\sources\web-admin\src\components\media" />
+      <recent name="E:\git\zz\sources\web-admin\src\module\data-module\component\tirvalProducts" />
+      <recent name="E:\git\zz\sources\web-admin\src\module\data-module\component\media" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\git\zz\sources\web-admin\src\module\data-module\component\.common" />
+      <recent name="E:\git\zz\sources\web-admin\src\components\media" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="dev" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration useDefault="false">C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+    <option name="runUnderTerminal" value="true" />
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="E:\git\zz\sources\web-admin" />
+          <option name="myCopyRoot" value="E:\git\zz\sources\web-admin" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="E:\git\zz\sources\web-admin" />
+          <option name="myCopyRoot" value="E:\git\zz\sources\web-admin" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8fc793c1-c63c-40e6-8624-75ab96900415" name="Default Changelist" comment="" />
+      <created>1542179023360</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542179023360</updated>
+      <workItem from="1542179025913" duration="5469000" />
+      <workItem from="1542244297389" duration="583000" />
+      <workItem from="1542247050851" duration="7255000" />
+      <workItem from="1542259481240" duration="15657000" />
+      <workItem from="1542330693494" duration="1134000" />
+      <workItem from="1542349038445" duration="7845000" />
+      <workItem from="1542358728372" duration="2878000" />
+      <workItem from="1542590751986" duration="188000" />
+      <workItem from="1542591029477" duration="107000" />
+      <workItem from="1542591180752" duration="786000" />
+      <workItem from="1542592027160" duration="6475000" />
+      <workItem from="1542600800743" duration="16663000" />
+      <workItem from="1542676194299" duration="16886000" />
+      <workItem from="1542698092371" duration="36000" />
+      <workItem from="1542698354269" duration="8381000" />
+      <workItem from="1542762567870" duration="24991000" />
+      <workItem from="1542849533907" duration="7300000" />
+      <workItem from="1542856992185" duration="2995000" />
+      <workItem from="1542865692257" duration="12203000" />
+      <workItem from="1542935480339" duration="19789000" />
+      <workItem from="1543281968016" duration="10685000" />
+      <workItem from="1543299115403" duration="14019000" />
+      <workItem from="1543454081186" duration="26026000" />
+      <workItem from="1543540215485" duration="27898000" />
+      <workItem from="1543799674087" duration="20080000" />
+      <workItem from="1543825545112" duration="5111000" />
+      <workItem from="1543886355302" duration="3806000" />
+      <workItem from="1543890376935" duration="1297000" />
+      <workItem from="1543894087700" duration="5847000" />
+      <workItem from="1543906552983" duration="1933000" />
+      <workItem from="1543972408776" duration="5342000" />
+      <workItem from="1544058847221" duration="8578000" />
+      <workItem from="1544145107561" duration="462000" />
+      <workItem from="1544145627773" duration="22106000" />
+    </task>
+    <task id="LOCAL-00001" summary="样式">
+      <created>1543904839510</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1543904839510</updated>
+    </task>
+    <task id="LOCAL-00002" summary="二维码">
+      <created>1543910377070</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1543910377070</updated>
+    </task>
+    <task id="LOCAL-00003" summary="二维码添加readonly">
+      <created>1543914460720</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1543914460720</updated>
+    </task>
+    <task id="LOCAL-00004">
+      <created>1543917108951</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1543917108951</updated>
+    </task>
+    <task id="LOCAL-00005" summary="样式">
+      <created>1544174135778</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1544174135778</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="318285000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1874" height="1096" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.62117904" visible="true" weight="0.06612022" />
+      <window_info id="Structure" order="1" sideWeight="0.34427965" side_tool="true" weight="0.12755652" />
+      <window_info id="npm" order="2" sideWeight="0.37882096" side_tool="true" weight="0.1273224" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32969433" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49836066" weight="0.3231441" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.25655022" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49945354" weight="0.5218341" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50054646" side_tool="true" weight="0.5218341" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.34170306" />
+      <window_info anchor="bottom" id="TypeScript" order="11" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32969433" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Python Console" order="14" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="二维码" />
+    <MESSAGE value="二维码添加readonly" />
+    <MESSAGE value="样式" />
+    <option name="LAST_COMMIT_MESSAGE" value="样式" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/module/data-module/component/travelDestination/performanceExhibition/PerformanceExhibition.vue</url>
+          <line>12</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/module/data-module/component/media/audioDatabase/AudioDatabase.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/module/data-module/component/media/imageDatabase/ImageDatabase.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/module/data-module/component/media/videoDatabase/VideoDatabase.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/module/data-module/component/publicSource/parkingLot/ParkingLot.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="5" column="28" lean-forward="true" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/module/data-module/component/publicSource/petrolStation/PetrolStation.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="6" column="25" lean-forward="true" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/module/data-module/component/publicSource/pharmacy/Pharmacy.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="5" column="28" lean-forward="true" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/module/data-module/component/publicSource/policeStation/PoliceStation.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="9" column="95" lean-forward="true" selection-start-line="9" selection-start-column="95" selection-end-line="9" selection-end-column="95" />
+          <folding>
+            <element signature="n#style#0;n#el-col#0;n#el-row#0;n#el-form#0;n#el-main#0;n#el-container#0;n#template#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/module/data-module/component/performanceExhibition/PerformanceExhibition.vue" />
+    <entry file="file://$PROJECT_DIR$/src/module/data-module/component/publicSource/tourismMonitoringCenter/TourismMonitoringCenter.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="7" column="30" lean-forward="true" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/module/data-module/component/publicSource/distributionCenter/DistributionCenter.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="8" column="16" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/module/data-module/component/publicSource/touristicCollege/TouristicCollege.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="34" lean-forward="true" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/module/data-module/component/publicSource/financialNet/FinancialNet.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="8" column="16" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/module/data-module/component/publicSource/touristInformationCenter/TouristInformationCenter.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="49">
+          <caret line="3" column="13" lean-forward="true" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/module/data-module/component/publicSource/fireBrigade/FireBrigade.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="216" column="14" lean-forward="true" selection-start-line="216" selection-start-column="14" selection-end-line="216" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/module/data-module/component/publicSource/touristToilet/TouristToilet.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="5" column="28" lean-forward="true" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/module/data-module/component/publicSource/gasStation/GasStation.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="9" column="95" lean-forward="true" selection-start-line="9" selection-start-column="95" selection-end-line="9" selection-end-column="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/module/data-module/component/tourismResourceManagement/emergingFormats/EmergingFormats.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="435" selection-start-line="435" selection-end-line="435" />
+          <folding>
+            <element signature="e#17881#17902#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/module/data-module/component/publicSource/hospital/Hospital.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="400" column="8" lean-forward="true" selection-start-line="400" selection-start-column="8" selection-end-line="400" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/module/data-module/component/travelRelatedEnterpriseManagement/shoppingPlaceWord/ShoppingPlaceWord.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="590" column="30" lean-forward="true" selection-start-line="590" selection-start-column="30" selection-end-line="590" selection-end-column="30" />
+          <folding>
+            <element signature="e#16826#16847#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/module/data-module/component/travelRelatedEnterpriseManagement/diningPlace/DiningPlace.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="539" column="19" lean-forward="true" selection-start-line="539" selection-start-column="19" selection-end-line="539" selection-end-column="19" />
+          <folding>
+            <element signature="e#19115#19136#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/module/data-module/component/travelRelatedEnterpriseManagement/accommodation/Accommodation.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6654">
+          <caret line="317" column="102" selection-start-line="317" selection-start-column="102" selection-end-line="317" selection-end-column="102" />
+          <folding>
+            <element signature="e#20740#20761#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/module/data-module/component/tourismResourceManagement/tourismTown/TourismTown.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="31">
+          <caret line="342" column="24" selection-start-line="342" selection-start-column="24" selection-end-line="342" selection-end-column="24" />
+          <folding>
+            <element signature="e#13765#13786#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/module/data-module/component/tourismResourceManagement/scienceAndTechnologyCultureCenter/ScienceAndTechnologyCultureCenter.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="396" lean-forward="true" selection-start-line="396" selection-end-line="396" />
+          <folding>
+            <element signature="e#14905#14926#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/module/data-module/component/tourismResourceManagement/qualityStreet/QualityStreet.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="427" column="19" selection-start-line="427" selection-start-column="19" selection-end-line="427" selection-end-column="19" />
+          <folding>
+            <element signature="e#15989#16010#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/module/data-module/component/tourismResourceManagement/publicTrails/PublicTrails.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="525" column="5" selection-start-line="525" selection-start-column="5" selection-end-line="525" selection-end-column="5" />
+          <folding>
+            <element signature="e#16759#16780#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/module/data-module/component/tourismResourceManagement/touristAttractions/TouristAttractions.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="593" column="18" lean-forward="true" selection-start-line="593" selection-start-column="18" selection-end-line="593" selection-end-column="18" />
+          <folding>
+            <element signature="e#23216#23237#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/module/data-module/component/tourismResourceManagement/ruralTourism/RuralTourism.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="255" selection-start-line="255" selection-end-line="255" />
+          <folding>
+            <element signature="e#17822#17843#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/module/data-module/component/travelTransport/carRental/CarRental.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="449">
+          <caret line="330" selection-start-line="330" selection-end-line="330" />
+          <folding>
+            <element signature="e#16730#16751#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/module/dataview-module/component/monitor/Index.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1302">
+          <caret line="52" column="27" selection-start-line="52" selection-start-column="27" selection-end-line="52" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/webpack.base.conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2315" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/module/dataview-module/component/DataViewTemplate.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#2241#2262#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/index.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="e#410#431#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/module/data-module/commonjs/rule.js.r10653" />
+    <entry file="file://$PROJECT_DIR$/src/module/data-module/commonjs/rule.js.mine" />
+    <entry file="file://$PROJECT_DIR$/src/module/data-module/component/tourismResourceManagement/characteristicTourism/CharacteristicTourism.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14384">
+          <caret line="464" column="40" selection-start-line="464" selection-start-column="40" selection-end-line="464" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/module/dataview-module/component/common/DynamicNumber.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1240">
+          <caret line="43" column="11" selection-start-line="43" selection-start-column="11" selection-end-line="43" selection-end-column="11" />
+          <folding>
+            <element signature="e#370#391#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/module/data-module/component/.common/ImgResource.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4154">
+          <caret line="139" column="17" selection-start-line="139" selection-start-column="17" selection-end-line="139" selection-end-column="17" />
+          <folding>
+            <element signature="e#4270#4291#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="22" column="27" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/webpack.dev.conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="992">
+          <caret line="32" column="32" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/module/data-module/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="10" column="30" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/module/data-module/commonjs/rule.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="5" column="14" lean-forward="true" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/theme/left-main/index.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="5" column="43" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/module/opinion-module/component/Template.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="5" column="49" lean-forward="true" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/module/data-module/component/.common/Template.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="6" column="45" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/module/system-module/component/Template.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="34" column="15" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/module/data-module/component/.common/QrCodeEditor.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1754">
+          <caret line="67" column="19" selection-start-line="67" selection-start-column="19" selection-end-line="67" selection-end-column="19" />
+          <folding>
+            <element signature="n#style#0;n#el-col#0;n#el-row#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#el-dialog#0;n#el-row#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="e#633#654#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/element-ui/lib/element-ui.common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-664">
+          <caret line="3023" column="2" selection-start-line="3023" selection-start-column="2" selection-end-line="3023" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/element-ui/packages/dialog/src/component.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="178" selection-start-line="178" selection-end-line="186" selection-end-column="14" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#div#0;n#transition#0;n#template#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/module/data-module/component/travelDestination/tourismPurpose/TourismPurpose.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="171" column="34" selection-start-line="171" selection-start-column="34" selection-end-line="171" selection-end-column="34" />
+          <folding>
+            <element signature="e#15554#15575#0" expanded="true" />
+            <element signature="e#18467#18627#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/module/data-module/component/.common/edit.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="129" column="13" lean-forward="true" selection-start-line="129" selection-start-column="13" selection-end-line="129" selection-end-column="13" />
+          <folding>
+            <element signature="n#style#0;n#el-col#0;n#el-row#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#el-button#0;n#el-col#0;n#el-row#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#el-button#1;n#el-col#0;n#el-row#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="e#707#728#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
